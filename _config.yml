@@ -1,3 +1,7 @@
 title: [Delotha Consulting]
 
 theme: jekyll-theme-midnight
+plugins:
+- jekyll-remote-theme
+
+show_downloads: false
