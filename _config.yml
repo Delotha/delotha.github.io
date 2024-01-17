@@ -4,4 +4,4 @@ theme: jekyll-theme-midnight
 plugins:
 - jekyll-remote-theme
 
-show_downloads: false
+show_links: false
