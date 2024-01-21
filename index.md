@@ -1,4 +1,4 @@
-# About Delotha
+# Delotha Consulting
 
 Delotha Consulting is a very small company made up of just me, [Ryan Loudfoot](https://github.com/Elyrith), for now. I'm an amateur Linux system administrator and programmer. I help small companies manage their Linux servers using [Salt](https://saltproject.io/), [Ansible](https://www.ansible.com/), and sometimes [Puppet](https://www.puppet.com/). I also help them monitor their infrastructure using [Zabbix](https://www.zabbix.com/), but I used to use [Nagios](https://www.nagios.org/).
 
