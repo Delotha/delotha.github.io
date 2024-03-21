@@ -11,7 +11,9 @@ This site uses the [Midnight Jekyll theme](https://pages-themes.github.io/midnig
 ## Development
 
 These are the commands required to develop this website locally:
+
 ```sudo apt install ruby-full```
+
 Don't install Ruby gems as root, though. Put this into your .bashrc to configure where to install gems for your user:
 
 ```markdown
