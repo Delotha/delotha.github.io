@@ -24,3 +24,17 @@ section {
 .wrapper {
   max-width: 800px;
 }
+
+@media screen and (max-width: 480px) {
+  #header {
+    margin-top: 0;
+  }
+
+  section {
+    margin-top: 60px;
+  }
+
+  nav {
+    display: block !important;
+  }
+}
