@@ -115,6 +115,16 @@
 
 * College Diploma: Systems Analyst Co-Op Program - Graduated in 2001 - Sheridan College, Brampton, Ontario, 4-year program
 
+## CERTIFICATIONS
+
+* A+ (CompTIA, 2005)
+* Worker Health and Safety Awareness (Ontario Government, 2014)
+* ITIL (2016)
+* Linux+ (2016)
+* Certified Data Center Management Professional (CDCMP, 2020)
+* Certified Data Center Environmental Sustainability Specialist (CDESS, 2024)
+* AWS Essentials Training (2025)
+
 ## RELATED EXTRACURRICULAR ACTIVITIES
 
 * Trusted member (and moderator) of Brampton Coffee & Code group, which is a public meetup of like-minded people anywhere in their tech journey
