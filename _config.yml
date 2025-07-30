@@ -6,3 +6,6 @@ plugins:
 - jekyll-remote-theme
 
 show_links: true
+
+# GitHub Pages settings
+repository: delotha/delotha.github.io
