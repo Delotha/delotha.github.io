@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-CA" }}">
+<html lang="{{ site.lang | default: 'en-CA' }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,8 +22,8 @@
         <nav>
           <ul>
             {% if site.show_links %}
-              <li class="fork"><a href="{{ site.github.owner_url }}">Delotha on GitHub</a></li>
-              <li class="downloads"><a href="./resume">Ryan's Resume</a></li>
+              <li class="fork"><a href="{{ site.github.owner_url }}" target="_blank">Delotha on GitHub</a></li>
+              <li class="downloads"><a href="./resume" target="_blank">Ryan's Resume</a></li>
               <!--li class="title">LINKS</li-->
             {% endif %}
           </ul>
@@ -37,8 +37,8 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">{{ site.github.owner_name }} is owned and operated by <a href="https://github.com/Elyrith">Ryan Loudfoot</a></span>
+          <!--span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span-->
+          <span class="credits right">This website is owned and operated by <a href="https://github.com/Elyrith" target="_blank" rel="noopener"></a>>Ryan Loudfoot</a></span>
         </div>
 
         {{ content }}

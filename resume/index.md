@@ -1,6 +1,6 @@
 # Resume - Ryan Loudfoot
 
-## KEY SKILLS
+## Key Skills
 
 ### Technical
 
@@ -45,7 +45,7 @@
 * Full clean Ontario driver’s license
 * Valid Canadian passport
 
-## CAREER SUMMARY
+## Career Summary
 
 ### ServiceNow (April 2020-current) - Data Centre Engineer
 
@@ -111,11 +111,11 @@
 * Provide on-location help-deck support
 * Part of the team that handled the weekend maintenance upgrading all PCs to Windows 2000 before Y2K
 
-## EDUCATION AND QUALIFICATIONS
+## Education and Qualifications
 
 * College Diploma: Systems Analyst Co-Op Program - Graduated in 2001 - Sheridan College, Brampton, Ontario, 4-year program
 
-## CERTIFICATIONS
+## Certifications
 
 * A+ (CompTIA, 2005)
 * Worker Health and Safety Awareness (Ontario Government, 2014)
@@ -125,6 +125,11 @@
 * Certified Data Center Environmental Sustainability Specialist (CDESS, 2024)
 * AWS Essentials Training (2025)
 
-## RELATED EXTRACURRICULAR ACTIVITIES
+## Related Extracurricular Activities
 
 * Trusted member (and moderator) of Brampton Coffee & Code group, which is a public meetup of like-minded people anywhere in their tech journey
+* Maintain a growing home-lab, including:
+  * Home router running pfSense, configured with many VLANs and firewall rules for primary LAN, IoT, camera, and work-device networks
+  * Dell mini PCs running Proxmox VE and Proxmox Backup
+  * Dell PowerEdge servers running ESXi (decommissioned these in 2023)
+  * Built my own home camera system running completely locally with [Blue Iris](https://blueirissoftware.com/){:target="_blank" rel="noopener"} and PoE cameras, for a completely cloud-free home security system
