@@ -10,13 +10,13 @@ layout: default
 - PC and network security analysis and hardening
 - PC hardware and software upgrades
 - Peripheral replacement (monitors, keyboards, printers)
-- Cloud service setup and administration
-  - I have experience setting up Microsoft Office/Microsoft 365 and Google Suite
-  - User account administration
 - Backup system setup and testing
 - Setup and maintain uptime monitoring
 - Setup and maintain digital signage
 - Troubleshoot point-of-sale machines
+- Cloud service setup and administration
+  - I have experience setting up Microsoft Office/Microsoft 365 and Google Suite
+  - User account administration
 
 ## Home Office
 
