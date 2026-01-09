@@ -2,12 +2,42 @@
 layout: default
 ---
 
-# What I Can Do For You
+# Services I Can Provide
 
+## Small Business
+
+- Network setup/upgrade/troubleshooting
+- PC and network security analysis and hardening
+- PC hardware and software upgrades
+- Peripheral replacement (monitors, keyboards, printers)
+- Cloud service setup and administration
+  - I have experience setting up Microsoft Office/Microsoft 365 and Google Suite
+  - User account administration
+- Backup system setup and testing
+- Setup and maintain uptime monitoring
+- Setup and maintain digital signage
+- Troubleshoot point-of-sale machines
+
+## Home Office
+
+- PC hardware and software upgrades
+- Mobile device setup, migration, and support (iPhone, iPad, and Android)
 - Set up, troubleshoot, or improve your home or small company network infrastructure, including implementing security best-practices and following the Keep-it-Simple mindset.
 - Set up and grow your smart home using [Home Assistant](https://https://www.home-assistant.io){:target="_blank" rel="noopener"}, to allow you to collect data and control your lights and other devices remotely or using automation, and grow your smart home at your own pace and budget.
 - Linux systems administration, including private and public cloud infrastructure.
 - Basic I.T. disaster recovery and backup planning.
+- Smart Home design, setup, installation, and training (Home Assistant)
+- Setup of whole-home advertisement blocking (piHole or Adguard)
+  - Doesn’t work for YouTube ads, but often works for ads in free games and on many websites
+  - Works on all devices on the network
+
+## Data Centre Support Services
+
+- Unpacking shipments
+- Racking enterprise equipment
+- Install or removal of network cabling
+- Basic network cable planning
+- Basic device configuration for remote access for the customer
 
 ---
 
