@@ -17,6 +17,11 @@
   background-color: #ffcc00;
 }
 
+/* Remove margin-bottom from any NESTED ul or ol at any depth */
+ul ul , ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
 section {
   max-width: 800px;
 }
