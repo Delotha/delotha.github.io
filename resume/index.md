@@ -55,16 +55,6 @@
 
 ## Career Summary
 
-### ServiceNow - Data Centre Operations Engineer - April 2020-current
-
-* Team lead for all major projects for all ServiceNow Ontario sites, including managing new builds/expansions
-* Perform hardware replacement for servers
-* Assist in maintaining accurate inventory management, and order supplies
-* Assist in writing documentation for my position
-* Physical deployment and decommissioning of new racks within the data centre
-* Diagnose and troubleshoot connection issues
-* Primary trainer for new employees
-
 ### Delotha I.T. Consulting - Server Administrator/Technical Consultant - February 2004-current
 
 * Maintain Linux servers, including Apache, PHP, MySQL, PostgreSQL, and FTP
@@ -74,6 +64,16 @@
 * Plan and implement disaster-recovery and backup procedures
 * Perform telephone-based technical assistance and training
 * Code and operate Discord bots for small communities
+
+### ServiceNow - Data Centre Operations Engineer - April 2020-December 2026
+
+* Team lead for all major projects for all ServiceNow Ontario sites, including managing new builds/expansions
+* Perform hardware replacement for servers
+* Assist in maintaining accurate inventory management, and order supplies
+* Assist in writing documentation for my position
+* Physical deployment and decommissioning of new racks within the data centre
+* Diagnose and troubleshoot connection issues
+* Primary trainer for new employees
 
 ### Q9 Networks Inc  - Data Centre Technician = July 2015-March 2020
 
