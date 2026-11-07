@@ -75,7 +75,7 @@
 * Diagnose and troubleshoot connection issues
 * Primary trainer for new employees
 
-### Q9 Networks Inc  - Data Centre Technician = July 2015-March 2020
+### Q9 Networks Inc  - Data Centre Technician - July 2015-April 2020
 
 * Installed and cabled rack-mounted hardware, including fibre and copper cross-connects
 * Created postmortem reports and recommended procedural improvements

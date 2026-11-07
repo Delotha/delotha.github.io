@@ -29,8 +29,8 @@ layout: default
 ## Individuals and Families
 
 - Assist with setting up digital legacy planning
-  - Both Google and Apple have systems to allow someone to request access access to your account after you pass away, but these systems can be difficult to find and tricky to set up
-- Set up and grow your smart home using [Home Assistant](https://https://www.home-assistant.io){:target="_blank" rel="noopener"}, to allow you to control your lights and other devices remotely or using automation, and grow your smart home at your own pace and budget
+  - Both Google and Apple have systems to allow someone to request access to your account after you pass away, but these systems can be difficult to find and tricky to set up
+- Set up and grow your smart home using [Home Assistant](https://www.home-assistant.io){:target="_blank" rel="noopener"}, to allow you to control your lights and other devices remotely or using automation, and grow your smart home at your own pace and budget
 - Smart Home design, setup, installation, and training (Home Assistant)
 - Setup of whole-home ad blocking (piHole or Adguard)
   - Doesn’t work for YouTube ads, but often works for ads in free games and on many websites
@@ -58,7 +58,7 @@ layout: default
 
 ## My Projects
 
-I use Git (GitHub and privage GitLab repos) to manage my own company and home infrastructure, such as:
+I use Git (GitHub and private GitLab repos) to manage my own company and home infrastructure, such as:
 
 - [Salt](https://saltproject.io/){:target="_blank" rel="noopener"} master and salt pillar configurations (Private)
 - [Puppet](https://www.puppet.com/){:target="_blank" rel="noopener"} server configurations (Private)
