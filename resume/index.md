@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Resume - Ryan Loudfoot
 
 ## Key Skills
